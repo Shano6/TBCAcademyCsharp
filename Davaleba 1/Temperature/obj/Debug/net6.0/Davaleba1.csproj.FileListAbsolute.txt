@@ -1,5 +1,0 @@
-C:\Users\datos\source\repos\Davaleba 1\Davaleba 1\obj\Debug\net6.0\Davaleba1.csproj.AssemblyReference.cache
-C:\Users\datos\source\repos\Davaleba 1\Davaleba 1\obj\Debug\net6.0\Davaleba1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\datos\source\repos\Davaleba 1\Davaleba 1\obj\Debug\net6.0\Davaleba1.AssemblyInfoInputs.cache
-C:\Users\datos\source\repos\Davaleba 1\Davaleba 1\obj\Debug\net6.0\Davaleba1.AssemblyInfo.cs
-C:\Users\datos\source\repos\Davaleba 1\Davaleba 1\obj\Debug\net6.0\Davaleba1.csproj.CoreCompileInputs.cache
