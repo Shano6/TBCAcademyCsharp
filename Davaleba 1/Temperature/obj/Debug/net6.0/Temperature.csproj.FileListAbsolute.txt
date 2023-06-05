@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\Davaleba 1\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\Users\datos\source\repos\Davaleba 1\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\datos\source\repos\Davaleba 1\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\datos\source\repos\Davaleba 1\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\Users\datos\source\repos\Davaleba 1\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\refint\Temperature.dll
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
+C:\Users\datos\source\repos\Davaleba 1\Temperature\obj\Debug\net6.0\ref\Temperature.dll
