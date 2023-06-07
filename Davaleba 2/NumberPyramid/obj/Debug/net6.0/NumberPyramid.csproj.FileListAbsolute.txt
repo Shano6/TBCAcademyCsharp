@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\bin\Debug\net6.0\NumberPyramid.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\bin\Debug\net6.0\NumberPyramid.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\bin\Debug\net6.0\NumberPyramid.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\bin\Debug\net6.0\NumberPyramid.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\bin\Debug\net6.0\NumberPyramid.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\refint\NumberPyramid.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\NumberPyramid.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\NumberPyramid\obj\Debug\net6.0\ref\NumberPyramid.dll
