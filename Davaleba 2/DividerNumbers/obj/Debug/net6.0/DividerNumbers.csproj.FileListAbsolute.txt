@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\bin\Debug\net6.0\DividerNumbers.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\bin\Debug\net6.0\DividerNumbers.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\bin\Debug\net6.0\DividerNumbers.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\bin\Debug\net6.0\DividerNumbers.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\bin\Debug\net6.0\DividerNumbers.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\refint\DividerNumbers.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\DividerNumbers.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\DividerNumbers\obj\Debug\net6.0\ref\DividerNumbers.dll

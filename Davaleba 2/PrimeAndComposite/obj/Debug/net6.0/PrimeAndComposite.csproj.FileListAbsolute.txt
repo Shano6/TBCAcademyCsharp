@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\bin\Debug\net6.0\PrimeAndComposite.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\bin\Debug\net6.0\PrimeAndComposite.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\bin\Debug\net6.0\PrimeAndComposite.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\bin\Debug\net6.0\PrimeAndComposite.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\bin\Debug\net6.0\PrimeAndComposite.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\refint\PrimeAndComposite.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\PrimeAndComposite.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\PrimeAndComposite\obj\Debug\net6.0\ref\PrimeAndComposite.dll

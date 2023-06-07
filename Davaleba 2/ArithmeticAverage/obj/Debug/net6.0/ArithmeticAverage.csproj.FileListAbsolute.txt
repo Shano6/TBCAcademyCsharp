@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\bin\Debug\net6.0\ArithmeticAverage.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\bin\Debug\net6.0\ArithmeticAverage.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\bin\Debug\net6.0\ArithmeticAverage.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\bin\Debug\net6.0\ArithmeticAverage.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\bin\Debug\net6.0\ArithmeticAverage.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\refint\ArithmeticAverage.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ArithmeticAverage.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 2\ArithmeticAverage\obj\Debug\net6.0\ref\ArithmeticAverage.dll
