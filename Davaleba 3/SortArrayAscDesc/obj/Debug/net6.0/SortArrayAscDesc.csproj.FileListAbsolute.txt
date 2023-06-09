@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\bin\Debug\net6.0\SortArrayAscDesc.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\bin\Debug\net6.0\SortArrayAscDesc.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\bin\Debug\net6.0\SortArrayAscDesc.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\bin\Debug\net6.0\SortArrayAscDesc.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\bin\Debug\net6.0\SortArrayAscDesc.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\refint\SortArrayAscDesc.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\SortArrayAscDesc.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortArrayAscDesc\obj\Debug\net6.0\ref\SortArrayAscDesc.dll

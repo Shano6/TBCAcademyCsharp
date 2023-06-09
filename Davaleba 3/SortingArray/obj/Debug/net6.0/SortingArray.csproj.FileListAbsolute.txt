@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\bin\Debug\net6.0\SortingArray.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\bin\Debug\net6.0\SortingArray.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\bin\Debug\net6.0\SortingArray.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\bin\Debug\net6.0\SortingArray.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\bin\Debug\net6.0\SortingArray.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\refint\SortingArray.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\SortingArray.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\SortingArray\obj\Debug\net6.0\ref\SortingArray.dll
