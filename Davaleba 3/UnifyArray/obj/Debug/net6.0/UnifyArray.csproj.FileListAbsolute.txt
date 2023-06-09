@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\bin\Debug\net6.0\UnifyArray.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\bin\Debug\net6.0\UnifyArray.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\bin\Debug\net6.0\UnifyArray.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\bin\Debug\net6.0\UnifyArray.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\bin\Debug\net6.0\UnifyArray.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\refint\UnifyArray.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\UnifyArray.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\UnifyArray\obj\Debug\net6.0\ref\UnifyArray.dll
