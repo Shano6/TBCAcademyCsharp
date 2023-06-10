@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\bin\Debug\net6.0\MatrixDeterminate.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\bin\Debug\net6.0\MatrixDeterminate.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\bin\Debug\net6.0\MatrixDeterminate.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\bin\Debug\net6.0\MatrixDeterminate.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\bin\Debug\net6.0\MatrixDeterminate.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\refint\MatrixDeterminate.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\MatrixDeterminate.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\MatrixDeterminate\obj\Debug\net6.0\ref\MatrixDeterminate.dll
