@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\bin\Debug\net6.0\LongestIncrease.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\bin\Debug\net6.0\LongestIncrease.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\bin\Debug\net6.0\LongestIncrease.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\bin\Debug\net6.0\LongestIncrease.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\bin\Debug\net6.0\LongestIncrease.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\refint\LongestIncrease.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\LongestIncrease.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 3\LongestIncrease\obj\Debug\net6.0\ref\LongestIncrease.dll
