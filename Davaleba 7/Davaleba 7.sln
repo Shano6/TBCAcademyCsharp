@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Davaleba 7\Calculator.csproj", "{DAA02823-E731-4A75-960E-70613B5AACA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingServices", "BankingServices\BankingServices.csproj", "{C3FCE7EF-F9EF-4944-B286-99DB9D977C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA02823-E731-4A75-960E-70613B5AACA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA02823-E731-4A75-960E-70613B5AACA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA02823-E731-4A75-960E-70613B5AACA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA02823-E731-4A75-960E-70613B5AACA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FCE7EF-F9EF-4944-B286-99DB9D977C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FCE7EF-F9EF-4944-B286-99DB9D977C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FCE7EF-F9EF-4944-B286-99DB9D977C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FCE7EF-F9EF-4944-B286-99DB9D977C20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17BCE8DB-0B56-49E2-8E8E-2A80EB321F54}
+	EndGlobalSection
+EndGlobal
