@@ -1,0 +1,15 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\bin\Debug\net6.0\BankingServices.exe
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\bin\Debug\net6.0\BankingServices.deps.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\bin\Debug\net6.0\BankingServices.runtimeconfig.json
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\bin\Debug\net6.0\BankingServices.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\bin\Debug\net6.0\BankingServices.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.csproj.CoreCompileInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\refint\BankingServices.dll
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.pdb
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\BankingServices.genruntimeconfig.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\BankingServices\obj\Debug\net6.0\ref\BankingServices.dll

@@ -1,0 +1,5 @@
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\Davaleba 7\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\Davaleba 7\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\Davaleba 7\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\Davaleba 7\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\datos\source\repos\TBCAcademyCsharp\Davaleba 7\Davaleba 7\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
